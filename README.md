@@ -1,2 +1,2 @@
 # LunarGate
-Open-source API Gateway software
+Open-source serverless API Gateway software
